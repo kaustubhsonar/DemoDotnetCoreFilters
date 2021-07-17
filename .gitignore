@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DemoDotnetCoreFilters/.vs/DemoDotnetCoreFilters
+/DemoDotnetCoreFilters/bin/Debug/netcoreapp3.1
+/DemoDotnetCoreFilters/obj
